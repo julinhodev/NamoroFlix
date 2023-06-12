@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url('../images/background-img.svg');
+  background-image: url('../images/background-img.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;
@@ -166,6 +166,10 @@ main img:hover {
   }
 
   #descricao {
-  max-width: 100%;
+    max-width: 100%;
+  }
+  
+  main img {
+   width: 100%;
   }
 }
